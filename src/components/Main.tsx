@@ -16,8 +16,8 @@ function Main() {
             <a href="https://github.com/tanuku-saikarthik/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/sai-karthik-tanuku-3b4547297/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Yuji Sato</h1>
-          <p>Full Stack Engineer</p>
+          <h1>Tanuku Sai Karthik</h1>
+          <p>Full Stack Engineer, ML Enthusiast</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/tanuku-saikarthik/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
