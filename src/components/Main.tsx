@@ -2,14 +2,14 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-
+import dpImage from './dp.jpg';
 function Main() {
 
   return (
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://drive.google.com/file/d/1-tB7sVp94law0oUtp5UXlkL1ygkIUsdK/view?usp=sharing" alt="Avatar" />
+          <img src={dpImage} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
